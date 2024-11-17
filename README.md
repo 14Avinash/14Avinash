@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Avinash
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python Web developer
+- 💞️ I’m looking to collaborate on Data Science Beginner
 - 📫 How to reach me via mail avinashdangol5@gmail.com
 
 <!---
